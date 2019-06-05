@@ -1,0 +1,48 @@
+body {
+	text-align: center;
+	
+}
+.Cake {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-style: italic;
+	
+}
+
+.Cake__chocolate {
+	border-style: dotted;
+	border-width: 5px;
+	border-color: brown;
+}
+
+.Cake__chocolate_img {
+	width: 500px;
+	border-style: solid;
+	border-width: 10px;
+	border-color: brown;
+
+}
+.Cake__chocolate_text{
+	font-size: 40px;
+
+}
+.Cupcake {
+	font-family:  Georgia, 'Times New Roman', Times, serif;
+	}
+
+.Cupcake__vanila{
+	border-style: dotted;
+	border-width: 5px;
+	border-color: yellow;
+
+}
+
+.Cupcake__vanila_img {
+	width: 500px;
+	border-style: solid;
+	border-width: 15px;
+	border-color: yellow;
+}
+
+.Cupcake__Vanila_text {
+	font-size: 20px;
+}
